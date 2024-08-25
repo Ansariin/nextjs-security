@@ -1,3 +1,4 @@
+// /index.js
 const requestLogger = require('./middleware/requestLogger');
 const blockIPMiddleware = require('./middleware/blockIPMiddleware');
 const { addIPToBlocklist, removeIPFromBlocklist, isIPBlocked } = require('./lib/geoIP');

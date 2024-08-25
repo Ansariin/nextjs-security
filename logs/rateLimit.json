@@ -1,6 +1,10 @@
 {
   "::1": {
-    "count": 4,
-    "firstRequest": 1724316842931
+    "count": 7,
+    "firstRequest": 1724596543067
+  },
+  "::ffff:127.0.0.1": {
+    "count": 1,
+    "firstRequest": 1724596574292
   }
 }

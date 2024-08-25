@@ -1,3 +1,4 @@
+// /middleware/blockIPMiddleware.js
 const { isIpBlocked } = require('../lib/geoIP');
 
 const blockIPMiddleware = (req, res, next) => {
